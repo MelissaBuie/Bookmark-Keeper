@@ -2,7 +2,7 @@
 
 A small web app for saving your favorite websites. Add a site's name and URL, and it shows up as a card with its favicon. Bookmarks are saved in your browser, so they are still there when you come back.
 
-**Live demo:** https://the-codingphoenix.github.io/Bookmark-Keeper/
+**Live demo:** https://melissabuie.github.io/Bookmark-Keeper/
 
 <!-- Add a screenshot: save one as screenshot.png and uncomment the next line -->
 <!-- ![Bookmark Keeper screenshot](screenshot.png) -->
